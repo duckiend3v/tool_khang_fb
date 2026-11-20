@@ -1,0 +1,4 @@
+PyQt5
+undetected-chromedriver
+selenium
+requests

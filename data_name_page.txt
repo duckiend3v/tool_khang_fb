@@ -1,0 +1,131 @@
+bds|BĐS Insight|Phân tích thị trường • Cơ hội đầu tư • Xu hướng bất động sản|Real Estate
+bds|Góc Nhìn Nhà Đất|Tin tức BĐS • Góc nhìn chuyên sâu • Cập nhật mỗi ngày|Real Estate
+bds|BĐS Cho Người Mới|Kiến thức nhập môn • Tránh rủi ro • Hướng dẫn đầu tư|Real Estate
+bds|Nhà Đẹp Việt Nam|Tổng hợp nhà đẹp • Thiết kế hiện đại • Không gian sống|Real Estate
+bds|Bản Đồ BĐS|Theo dõi biến động • Khu vực tiềm năng • Cơ hội đầu tư|Real Estate
+bds|Review Nhà Đẹp|Khám phá nhà đẹp • Kiến trúc ấn tượng • Ý tưởng hay|Real Estate
+bds|BĐS Mỗi Ngày|Tin nhanh thị trường • Cập nhật liên tục|Real Estate
+bds|Đầu Tư Nhà Đất|Chiến lược đầu tư • Phân tích sinh lời|Real Estate
+bds|BĐS 360|Góc nhìn toàn cảnh thị trường bất động sản|Real Estate
+bds|Nhật Ký Mua Nhà|Kinh nghiệm thực tế • Hành trình mua nhà|Real Estate
+
+chungkhoan|Nhật Ký Trader|Hành trình đầu tư • Kinh nghiệm thực chiến|Financial service
+chungkhoan|Chứng Khoán Mỗi Ngày|Tin nhanh thị trường • Biến động cổ phiếu|Financial service
+chungkhoan|Góc Nhìn Chứng Khoán|Phân tích chuyên sâu • Xu hướng đầu tư|Financial service
+chungkhoan|Bản Tin Tài Chính|Tin tức kinh tế • Thị trường tài chính|Financial service
+chungkhoan|Đầu Tư Cổ Phiếu|Kiến thức đầu tư • Chiến lược sinh lời|Financial service
+chungkhoan|Chứng Khoán 24h|Update liên tục • Thị trường nóng|Financial service
+chungkhoan|Cổ Phiếu Tiềm Năng|Gợi ý đầu tư • Phân tích doanh nghiệp|Financial service
+chungkhoan|Trader Việt Nam|Cộng đồng đầu tư • Chia sẻ kinh nghiệm|Financial service
+chungkhoan|Học Chứng Khoán|Kiến thức từ cơ bản đến nâng cao|Financial service
+chungkhoan|Chứng Khoán Insight|Góc nhìn dữ liệu • Phân tích xu hướng|Financial service
+
+crypto|Crypto Insight|Tin tức crypto • Xu hướng thị trường|Financial service
+crypto|Crypto Mỗi Ngày|Update coin • Biến động liên tục|Financial service
+crypto|Góc Nhìn Blockchain|Kiến thức Web3 • Công nghệ blockchain|Financial service
+crypto|Đầu Tư Crypto|Chiến lược đầu tư • Quản lý rủi ro|Financial service
+crypto|Crypto 24h|Tin nóng thị trường coin|Financial service
+crypto|Crypto Cho Người Mới|Nhập môn crypto • Hiểu từ đầu|Financial service
+crypto|Thế Giới Crypto|Tổng hợp tin tức • Xu hướng mới|Financial service
+crypto|Coin Tiềm Năng|Phân tích dự án • Gợi ý đầu tư|Financial service
+crypto|Crypto Việt Nam|Cộng đồng crypto Việt|Financial service
+crypto|Nhật Ký Crypto|Hành trình đầu tư thực tế|Financial service
+
+yte|Sống Khoẻ Mỗi Ngày|Lối sống lành mạnh • Bí quyết sức khoẻ|Health/beauty
+yte|Bí Quyết Sức Khoẻ|Tips sống khoẻ • Phòng bệnh|Health/beauty
+yte|Thực Dưỡng & Cuộc Sống|Ăn uống lành mạnh • Cân bằng cơ thể|Health/beauty
+yte|Health Insight|Kiến thức y khoa • Lời khuyên hữu ích|Health/beauty
+yte|Sức Khoẻ 24h|Tin nhanh y tế • Cập nhật mỗi ngày|Health/beauty
+yte|Ăn Sạch Sống Khoẻ|Chế độ ăn lành mạnh|Health/beauty
+yte|Chăm Sóc Cơ Thể|Tips chăm sóc sức khoẻ|Health/beauty
+yte|Hiểu Đúng Về Sức Khoẻ|Kiến thức khoa học dễ hiểu|Health/beauty
+yte|Lối Sống Xanh|Sống lành mạnh • Tự nhiên|Health/beauty
+yte|Sống Lành Mạnh|Thay đổi thói quen • Sống tốt hơn|Health/beauty
+
+luat|Hiểu Luật Mỗi Ngày|Kiến thức pháp luật dễ hiểu|Legal service
+luat|Luật & Đời Sống|Tình huống thực tế • Áp dụng luật|Legal service
+luat|Góc Nhìn Pháp Lý|Phân tích luật • Case thực tế|Legal service
+luat|Pháp Luật 24h|Tin nóng pháp lý|Legal service
+luat|Luật Cho Người Dân|Hiểu quyền lợi của bạn|Legal service
+luat|Tư Vấn Pháp Luật|Kiến thức hữu ích|Legal service
+luat|Hiểu Luật Để Sống|Tránh rủi ro pháp lý|Legal service
+luat|Pháp Lý Việt Nam|Thông tin luật mới|Legal service
+luat|Luật Dễ Hiểu|Giải thích luật đơn giản|Legal service
+luat|Sổ Tay Pháp Luật|Kiến thức cần biết|Legal service
+
+giaoduc|Học Tiếng Anh Mỗi Ngày|Học từ vựng • Giao tiếp|Education
+giaoduc|English For You|Tiếng Anh dễ hiểu|Education
+giaoduc|Tiếng Anh Dễ Hiểu|Học nhanh • Nhớ lâu|Education
+giaoduc|Nhật Ký Học Tiếng Anh|Hành trình học tập|Education
+giaoduc|Học Tiếng Anh 0→100|Từ cơ bản đến nâng cao|Education
+giaoduc|English Tips Daily|Mẹo học nhanh|Education
+giaoduc|Học Nhanh Tiếng Anh|Tips thực tế|Education
+giaoduc|Tiếng Anh Cho Học Sinh|Phù hợp cấp 1–3|Education
+giaoduc|English Everyday|Luyện mỗi ngày|Education
+giaoduc|Giao Tiếp Tiếng Anh|Nói chuyện tự tin|Education
+
+dulich|Du Lịch Mỗi Ngày|Review địa điểm|Travel & leisure
+dulich|Check-in Việt Nam|Khám phá VN|Travel & leisure
+dulich|Travel Insight|Kinh nghiệm du lịch|Travel & leisure
+dulich|Việt Nam Trong Tôi|Cảnh đẹp Việt|Travel & leisure
+dulich|Khám Phá Thế Giới|Du lịch quốc tế|Travel & leisure
+dulich|Review Khách Sạn Đẹp|Resort • hotel|Travel & leisure
+dulich|Du Lịch Tự Túc|Kinh nghiệm tiết kiệm|Travel & leisure
+dulich|Đi Đâu Hôm Nay|Gợi ý địa điểm|Travel & leisure
+dulich|Travel 24h|Tin du lịch|Travel & leisure
+dulich|Du Lịch Chill|Trải nghiệm nhẹ nhàng|Travel & leisure
+
+spa|Đẹp Mỗi Ngày|Tips làm đẹp|Beauty, cosmetic & personal care
+spa|Góc Làm Đẹp|Skincare • makeup|Beauty, cosmetic & personal care
+spa|Beauty Insight|Xu hướng làm đẹp|Beauty, cosmetic & personal care
+spa|Chăm Sóc Da|Routine chuẩn|Beauty, cosmetic & personal care
+spa|Skincare Tips|Bí quyết da đẹp|Beauty, cosmetic & personal care
+spa|Làm Đẹp Tự Nhiên|Không hoá chất|Beauty, cosmetic & personal care
+spa|Review Mỹ Phẩm|Đánh giá sản phẩm|Beauty, cosmetic & personal care
+spa|Da Đẹp Mỗi Ngày|Routine chăm sóc|Beauty, cosmetic & personal care
+spa|Làm Đẹp 24h|Update xu hướng|Beauty, cosmetic & personal care
+spa|Bí Quyết Đẹp|Tips nhanh gọn|Beauty, cosmetic & personal care
+
+kientruc|Kiến Trúc & Không Gian|Ý tưởng thiết kế|Architectural designer
+kientruc|Nhà Đẹp Insight|Xu hướng kiến trúc|Architectural designer
+kientruc|Không Gian Sống|Thiết kế nội thất|Architectural designer
+kientruc|Kiến Trúc Việt Nam|Công trình đẹp|Architectural designer
+kientruc|Nhà Đẹp Mỗi Ngày|Cảm hứng sống|Architectural designer
+kientruc|Ý Tưởng Nhà Đẹp|Thiết kế sáng tạo|Architectural designer
+kientruc|Kiến Trúc 24h|Tin ngành|Architectural designer
+kientruc|Architecture Life|Không gian sống|Architectural designer
+kientruc|Thiết Kế Nhà|Gợi ý xây dựng|Architectural designer
+kientruc|Góc Kiến Trúc|Phân tích thiết kế|Architectural designer
+
+thoisu|Tin Nóng 24h|Cập nhật nhanh|News & media website
+thoisu|Thời Sự Mỗi Ngày|Tin tức mới|News & media website
+thoisu|Góc Nhìn Xã Hội|Phân tích sự kiện|News & media website
+thoisu|Bản Tin Nhanh|Tin nóng|News & media website
+thoisu|Tin Nhanh Việt Nam|Update liên tục|News & media website
+thoisu|Drama Xã Hội|Tin hot|News & media website
+thoisu|Tin Tức 24/7|Cập nhật nonstop|News & media website
+thoisu|Hot News Việt|Tin nổi bật|News & media website
+thoisu|Tin Nhanh Mỗi Ngày|Tổng hợp tin|News & media website
+thoisu|Toàn Cảnh Xã Hội|Góc nhìn đa chiều|News & media website
+
+thoitrang|Fashion Insight|Xu hướng mới|Clothing (Brand)
+thoitrang|Phong Cách Mỗi Ngày|Tips phối đồ|Clothing (Brand)
+thoitrang|Style Guide VN|Hướng dẫn thời trang|Clothing (Brand)
+thoitrang|Mix Đồ Đẹp|Outfit đẹp|Clothing (Brand)
+thoitrang|Thời Trang 24h|Trend mới|Clothing (Brand)
+thoitrang|Mặc Đẹp Mỗi Ngày|Gợi ý outfit|Clothing (Brand)
+thoitrang|Gu Thời Trang|Cá tính riêng|Clothing (Brand)
+thoitrang|Outfit Inspiration|Cảm hứng mặc đẹp|Clothing (Brand)
+thoitrang|Street Style VN|Phong cách đường phố|Clothing (Brand)
+thoitrang|Đẹp & Style|Thời trang hiện đại|Clothing (Brand)
+
+amthuc|Ăn Gì Hôm Nay|Gợi ý món ngon|Food & beverage
+amthuc|Món Ngon Mỗi Ngày|Ẩm thực hấp dẫn|Food & beverage
+amthuc|Food Review VN|Review quán ăn|Food & beverage
+amthuc|Ăn Uống 24h|Update món ngon|Food & beverage
+amthuc|Ăn Sập Hà Nội|Quán ngon|Food & beverage
+amthuc|Ăn Là Ghiền|Món hot|Food & beverage
+amthuc|Review Đồ Ăn|Đánh giá món|Food & beverage
+amthuc|Ăn Ngon Mỗi Ngày|Gợi ý ăn uống|Food & beverage
+amthuc|Food Insight|Xu hướng ẩm thực|Food & beverage
+amthuc|Thế Giới Ẩm Thực|Món ăn toàn cầu|Food & beverage

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# Build & Dist
+build/
+dist/
+
+# Environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# User data & accounts (SECURITY)
+data/
+*.bak
+*.log
+index.txt
+temp_media_*
+
+# Status files
+*_STATUS.txt
+COOKIE_IS_DEAD_QUICK.txt
